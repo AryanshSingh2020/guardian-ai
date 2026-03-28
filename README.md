@@ -95,7 +95,7 @@ The consequences are measurable:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/guardian-ai.git
+git clone https://github.com/AryanshSingh2020/guardian-ai.git
 cd guardian-ai
 
 # 2. Install dependencies
